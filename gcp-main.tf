@@ -1,5 +1,5 @@
 resource "google_app_engine_application" "app" {
-  project     = "quantum-star-360500"
+  project     = "lab-devops-cloud-363418"
   location_id = "us-central"
 }
 
